@@ -1,2 +1,2 @@
-# VBA_varios
-Macros varias para automatizar tareas diarias
+# VBA_misc
+Macros to automate daily tasks
